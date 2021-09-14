@@ -1,3 +1,6 @@
+// Copyright Peter Sanford 2021
+// Parts of logfmt are derived from https://github.com/inconshreveable/log15 and copyright 2014 Alan Shreve
+
 package main
 
 import (
